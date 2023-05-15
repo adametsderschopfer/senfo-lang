@@ -6,10 +6,10 @@ this is my first simple programming language
 - Digits - [0-9]*
 - Variables - [a-b]*
 - Operators 
-  - binary - (-, +, /, *)
+  - binary - (-, +, /, *, =)
 - End line symbol - ;
 - Brackets - ()
 
-### Commands
+### Function operators
 - print_log - Command to output to the console
 
